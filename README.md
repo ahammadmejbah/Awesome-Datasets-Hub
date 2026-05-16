@@ -13,9 +13,9 @@
 
 </p>
 
-</br>
-  <h1 style="text-align: center;">Medical Datasets for LLM</h1>
+<div align="center">
 
+## ⚡ Medical Datasets for LLM
 | Serial | Dataset | Domain | Field / Task | Scale | Strength | Language | License |
 |---|---|---|---|---|---|---|---|
 | **01** | [**MedQA (USMLE)**](https://github.com/jind11/MedQA) <br><sub>Jin et al. · 2021</sub> | ![Benchmark](https://img.shields.io/badge/Benchmark-7c3aed?style=flat-square) | Medical QA · Licensing Exam | **12,723 Q** | ![9/10](https://img.shields.io/badge/9%2F10-0D5FA6?style=flat-square&label=Strength) | ![EN/ZH/TW](https://img.shields.io/badge/EN%20%7C%20ZH%20%7C%20TW-lightgrey?style=flat-square) | ![MIT](https://img.shields.io/badge/MIT-22863a?style=flat-square) |
@@ -69,3 +69,42 @@
 | **49** | [**CMB**](https://github.com/FreedomIntelligence/CMB) <br><sub>Freedom Intelligence · 2023</sub> | ![Multilingual](https://img.shields.io/badge/Multilingual-6366f1?style=flat-square) | Chinese Medical Benchmark | **20K Questions** | ![8/10](https://img.shields.io/badge/8%2F10-2e7d32?style=flat-square&label=Strength) | ![ZH](https://img.shields.io/badge/ZH-lightgrey?style=flat-square) | ![Apache](https://img.shields.io/badge/Apache%202.0-22863a?style=flat-square) |
 | **50** | [**CLEF eHealth**](https://clefehealth.imag.fr/) <br><sub>CLEF Initiative</sub> | ![Multilingual](https://img.shields.io/badge/Multilingual-6366f1?style=flat-square) | Multilingual Medical Information Retrieval | **Multi-Year Tasks** | ![8/10](https://img.shields.io/badge/8%2F10-2e7d32?style=flat-square&label=Strength) | ![Multi](https://img.shields.io/badge/Multi-lightgrey?style=flat-square) | ![Research](https://img.shields.io/badge/Research-b45309?style=flat-square) |
 </div>
+
+</br>
+</br>
+
+<div align="center">
+
+## ⚡ Awesome VLSI (Very Large-Scale Integration) Datasets
+
+| Serial  | Dataset | Domain | Field / Task | Scale | Strength | Type | Source |
+|---|---|---|---|---|---|---|---|
+| **01** | [**HKUST-GZ Design Dataset**](https://github.com/HKUST-GZ-VLSI/Design-Dataset) <br><sub>HKUST-GZ VLSI Lab</sub> | ![EDA](https://img.shields.io/badge/EDA-2563eb?style=flat-square) | Physical Design & Routing | Multi-design benchmark | ![9/10](https://img.shields.io/badge/9%2F10-0D5FA6?style=flat-square&label=Strength) | ![Open](https://img.shields.io/badge/Open-22863a?style=flat-square) | GitHub |
+| **02** | [**University of Waterloo VLSI Dataset**](https://www.math.uwaterloo.ca/tsp/vlsi/index.html) <br><sub>University of Waterloo</sub> | ![Optimization](https://img.shields.io/badge/Optimization-7c3aed?style=flat-square) | Traveling Salesman for VLSI | Multiple benchmark graphs | ![8/10](https://img.shields.io/badge/8%2F10-2e7d32?style=flat-square&label=Strength) | ![Benchmark](https://img.shields.io/badge/Benchmark-b45309?style=flat-square) | Academic |
+| **03** | [**Calcite Test Dataset**](https://github.com/vlsi/calcite-test-dataset) <br><sub>VLSI Research Community</sub> | ![Routing](https://img.shields.io/badge/Routing-dc2626?style=flat-square) | Placement & Routing Validation | Test circuits | ![7/10](https://img.shields.io/badge/7%2F10-e67e22?style=flat-square&label=Strength) | ![Open](https://img.shields.io/badge/Open-22863a?style=flat-square) | GitHub |
+| **04** | [**Rajasrl VLSI Dataset**](https://huggingface.co/datasets/Rajasrl/VLSI-Dataset) <br><sub>Hugging Face</sub> | ![ML](https://img.shields.io/badge/ML%20for%20EDA-db2777?style=flat-square) | Machine Learning for VLSI | Structured dataset | ![7/10](https://img.shields.io/badge/7%2F10-e67e22?style=flat-square&label=Strength) | ![HF](https://img.shields.io/badge/HuggingFace-f59e0b?style=flat-square) | HuggingFace |
+| **05** | [**VLSI Circuit Parameter Dataset**](https://www.kaggle.com/datasets/benin007/vlsi-circuit-parameter-dataset-for-ml) <br><sub>Kaggle</sub> | ![Circuit](https://img.shields.io/badge/Circuit-16a34a?style=flat-square) | Circuit Parameter Prediction | ML-ready tabular data | ![8/10](https://img.shields.io/badge/8%2F10-2e7d32?style=flat-square&label=Strength) | ![Kaggle](https://img.shields.io/badge/Kaggle-0D5FA6?style=flat-square) | Kaggle |
+| **06** | [**Open Circuit Benchmark Suite**](https://www.samyzaf.com/ML/opens/opens.html) <br><sub>OpenS Benchmark</sub> | ![Benchmark](https://img.shields.io/badge/Benchmark-6366f1?style=flat-square) | Circuit Optimization | Open benchmark circuits | ![8/10](https://img.shields.io/badge/8%2F10-2e7d32?style=flat-square&label=Strength) | ![Academic](https://img.shields.io/badge/Academic-b45309?style=flat-square) | Research |
+| **07** | [**Roboflow VLSI Dataset**](https://universe.roboflow.com/aruns-workspace-8mqby/vlsi) <br><sub>Roboflow Universe</sub> | ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0d9488?style=flat-square) | VLSI Image/Object Detection | Annotated visual dataset | ![7/10](https://img.shields.io/badge/7%2F10-e67e22?style=flat-square&label=Strength) | ![Vision](https://img.shields.io/badge/Vision-dc2626?style=flat-square) | Roboflow |
+| **08** | [**VLSI System Design Datasets**](https://www.vlsisystemdesign.com/tag/data-sets/) <br><sub>VSD Corp</sub> | ![Education](https://img.shields.io/badge/Education-f97316?style=flat-square) | EDA Learning & Benchmarks | Multiple datasets | ![7/10](https://img.shields.io/badge/7%2F10-e67e22?style=flat-square&label=Strength) | ![Educational](https://img.shields.io/badge/Educational-2563eb?style=flat-square) | Web |
+| **09** | [**Waterloo VLSI Page 2**](https://www.math.uwaterloo.ca/tsp/vlsi/page2.html) <br><sub>University of Waterloo</sub> | ![Optimization](https://img.shields.io/badge/Optimization-7c3aed?style=flat-square) | Advanced VLSI Optimization | Benchmark layouts | ![8/10](https://img.shields.io/badge/8%2F10-2e7d32?style=flat-square&label=Strength) | ![Benchmark](https://img.shields.io/badge/Benchmark-b45309?style=flat-square) | Academic |
+| **10** | [**Southampton VLSI Dataset**](https://eprints.soton.ac.uk/385521/) <br><sub>University of Southampton</sub> | ![Research](https://img.shields.io/badge/Research-4338ca?style=flat-square) | VLSI Architecture Research | Academic dataset | ![7/10](https://img.shields.io/badge/7%2F10-e67e22?style=flat-square&label=Strength) | ![Research](https://img.shields.io/badge/Research-b45309?style=flat-square) | Institutional |
+| **11** | [**IntelLabs FloorSet**](https://github.com/IntelLabs/FloorSet) <br><sub>Intel Labs</sub> | ![Floorplanning](https://img.shields.io/badge/Floorplanning-2563eb?style=flat-square) | Chip Floorplanning & Placement | Large benchmark suite | ![10/10](https://img.shields.io/badge/10%2F10-006400?style=flat-square&label=Strength) | ![Open](https://img.shields.io/badge/Open-22863a?style=flat-square) | GitHub |
+| **12** | [**VLSI Design Projects**](https://github.com/ramiomer94/VLSI-design-projects) <br><sub>Community Repository</sub> | ![Design](https://img.shields.io/badge/VLSI%20Design-7c3aed?style=flat-square) | Digital & Analog Design Projects | Multiple projects | ![8/10](https://img.shields.io/badge/8%2F10-2e7d32?style=flat-square&label=Strength) | ![Educational](https://img.shields.io/badge/Educational-f97316?style=flat-square) | GitHub |
+| **13** | [**LeonidasY VLSI Design**](https://github.com/LeonidasY/vlsi-design) <br><sub>Open Hardware Research</sub> | ![EDA](https://img.shields.io/badge/EDA-dc2626?style=flat-square) | VLSI Architecture & RTL Design | HDL-based repository | ![7/10](https://img.shields.io/badge/7%2F10-e67e22?style=flat-square&label=Strength) | ![RTL](https://img.shields.io/badge/RTL-0d9488?style=flat-square) | GitHub |
+| **14** | [**Open Circuit Benchmark Suite**](https://samyzaf.com/ML/opens/opens.html) <br><sub>OpenS Benchmark</sub> | ![Benchmark](https://img.shields.io/badge/Benchmark-6366f1?style=flat-square) | Circuit Optimization Benchmarks | Open benchmark circuits | ![8/10](https://img.shields.io/badge/8%2F10-2e7d32?style=flat-square&label=Strength) | ![Academic](https://img.shields.io/badge/Academic-b45309?style=flat-square) | Research |
+| **15** | [**Parasitic Analysis of RLC Circuits**](https://github.com/gnanesh-16/PARASITIC_AnalysisOF-RLC-Circuits) <br><sub>EDA Research Project</sub> | ![Circuit](https://img.shields.io/badge/Circuit%20Analysis-16a34a?style=flat-square) | RLC Parasitic Analysis | Simulation datasets | ![7/10](https://img.shields.io/badge/7%2F10-e67e22?style=flat-square&label=Strength) | ![Simulation](https://img.shields.io/badge/Simulation-0D5FA6?style=flat-square) | GitHub |
+| **16** | [**Kaggle VLSI Dataset**](https://www.kaggle.com/datasets/hemanthhari/vlsi-data) <br><sub>Kaggle Community</sub> | ![ML](https://img.shields.io/badge/ML%20for%20EDA-db2777?style=flat-square) | Machine Learning for VLSI | Structured ML dataset | ![8/10](https://img.shields.io/badge/8%2F10-2e7d32?style=flat-square&label=Strength) | ![Kaggle](https://img.shields.io/badge/Kaggle-0D5FA6?style=flat-square) | Kaggle |
+| **17** | [**The OpenROAD Project**](https://github.com/The-OpenROAD-Project) <br><sub>OpenROAD Team</sub> | ![EDA](https://img.shields.io/badge/EDA-2563eb?style=flat-square) | Autonomous RTL-to-GDSII Flow | Enterprise-scale framework | ![10/10](https://img.shields.io/badge/10%2F10-006400?style=flat-square&label=Strength) | ![OpenSource](https://img.shields.io/badge/Open%20Source-22863a?style=flat-square) | GitHub |
+| **18** | [**ISPD Roboflow Dataset**](https://universe.roboflow.com/casproject/ispd) <br><sub>Roboflow Universe</sub> | ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0d9488?style=flat-square) | ISPD Layout Detection & Vision Tasks | Annotated layout dataset | ![7/10](https://img.shields.io/badge/7%2F10-e67e22?style=flat-square&label=Strength) | ![Vision](https://img.shields.io/badge/Vision-dc2626?style=flat-square) | Roboflow |
+
+</div>
+
+
+
+
+
+
+
+
+
