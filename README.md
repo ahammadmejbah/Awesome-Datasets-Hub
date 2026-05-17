@@ -1,4 +1,4 @@
-<img src="https://github.com/ahammadmejbah/Awesome-LLM-Datasets/blob/main/LLM.jpeg" class="center-img" alt="Description">
+<img src="https://github.com/ahammadmejbah/Awesome-LLM-Datasets/blob/main/Banner.jpeg" class="center-img" alt="Description">
 
 <p align="center">
   <a href="mailto:ahammadmejbah@gmail.com"><img src="https://img.shields.io/badge/Email-ahammadmejbah%40gmail.com-blue?style=flat-square&logo=gmail"></a>
